@@ -1235,3 +1235,32 @@ If you find an issue with a listed skill or want your skill removed, please open
 - [ClawHub Profile](https://clawhub.ai/skylv)
 - [Landing Page](https://sky-lv.github.io/awesome-openclaw-skills)
 - [GitHub Repo](https://github.com/SKY-lv/awesome-openclaw-skills)
+
+---
+
+## SKY-lv Skills
+
+> 30+ OpenClaw skills for agent development. MIT Licensed.
+
+### Agent Intelligence
+- [skylv-agent-evaluator](https://github.com/SKY-lv/agent-evaluator) - Score agent behavior across 5 criteria
+- [skylv-metacognition-engine](https://github.com/SKY-lv/metacognition-engine) - Self-reflection & bias detection
+- [skylv-capability-growth](https://github.com/SKY-lv/capability-growth) - Continuous improvement
+
+### Agent Health
+- [skylv-self-healing-agent](https://github.com/SKY-lv/self-healing-agent) - Auto-repair agent errors
+- [skylv-self-health-monitor](https://github.com/SKY-lv/self-health-monitor) - Real-time health monitoring
+- [skylv-cost-guard](https://github.com/SKY-lv/cost-guard) - API cost optimization
+
+### Developer Tools
+- [skylv-browser-automation-agent](https://github.com/SKY-lv/browser-automation-agent) - Browser automation
+- [skylv-diff-viewer](https://github.com/SKY-lv/diff-viewer) - Diff comparison
+- [skylv-file-versioning](https://github.com/SKY-lv/file-versioning) - File change tracking
+- [skylv-data-validator](https://github.com/SKY-lv/data-validator) - Data validation
+
+### File & Data
+- [skylv-smart-renamer](https://github.com/SKY-lv/smart-renamer) - Batch file renaming
+- [skylv-context-aware-scheduler](https://github.com/SKY-lv/context-aware-scheduler) - Task scheduling
+
+### Links
+- [ClawHub Profile](https://clawhub.ai/skylv) | [Landing Page](https://sky-lv.github.io/awesome-openclaw-skills)
